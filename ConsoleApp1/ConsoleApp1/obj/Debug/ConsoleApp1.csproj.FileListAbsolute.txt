@@ -1,0 +1,7 @@
+D:\Hoan\clone proj\demo-git\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Hoan\clone proj\demo-git\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Hoan\clone proj\demo-git\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Hoan\clone proj\demo-git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Hoan\clone proj\demo-git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Hoan\clone proj\demo-git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Hoan\clone proj\demo-git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
